@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/OnlyFlyer/webpack/issues"
   },
-  "homepage": "https://github.com/OnlyFlyer/webpack#readme"
+  "homepage": "https://github.com/OnlyFlyer/webpack#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
 }
